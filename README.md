@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her.
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp; I’m looking to collaborate on open-source projects related to frontend development , Backend development and mobile apps.
 - 💬 Ask me about anything, I am happy to help;
+
+
+<!-- Gmail and LinkedIn Links with Custom Icons -->
+<a href="mailto:your-email@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30px">
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30px">
+</a>
+
   
 #  Knowledges
 
@@ -55,8 +66,9 @@ Here are some ideas to get you started:
 
 
 <!--<img alt="Rana's github stats" src="https://github-readme-stats.vercel.app/api?username=rana-essameldin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
--->
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rana-essameldin&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+-->
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
