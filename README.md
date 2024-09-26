@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <div align="center">
 **📫 Reach me at:**<br>
 
+<!-- Gmail Logo -->
 <a href="mailto:your-email@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" alt="Gmail" width="40px">
 </a>
+
 <!-- LinkedIn Logo -->
 <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40px">
