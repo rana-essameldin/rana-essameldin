@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 # 🖖 there, I'm  SoftWare developer 
 
+> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about me:***
 
+- 😄 Pronouns: She/Her.
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp; I’m looking to collaborate on open-source projects related to frontend development , Backend development and mobile apps.
+- 💬 Ask me about anything, I am happy to help;
+
+
+- 
 #  Knowledges
 
 ## Languages
@@ -41,6 +48,8 @@ Here are some ideas to get you started:
 
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
 
 <!--<img alt="Rana's github stats" src="https://github-readme-stats.vercel.app/api?username=rana-essameldin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 -->
