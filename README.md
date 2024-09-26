@@ -27,18 +27,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 **📫 Reach me at:**<br>
-<!-- Gmail and LinkedIn Links with Custom Icons -->
-<!-- Add the Font Awesome CSS to your HTML head -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<!-- Gmail and LinkedIn Links with Icons -->
 <a href="mailto:your-email@gmail.com" target="_blank">
-  <i class="fas fa-envelope"></i> Gmail
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" alt="Gmail" width="40px">
+</a>
+<!-- LinkedIn Logo -->
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40px">
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
 
 </div>
   
