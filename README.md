@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 📫 Reach me at:<br>
+        <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
+
 <!-- Gmail Logo -->
 <a href="mailto:rana.essameldin111@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40px">
