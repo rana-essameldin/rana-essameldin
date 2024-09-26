@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 
-<img alt="Rana's github stats" src="https://github-readme-stats.vercel.app/api?username=rana-essameldin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-
+<!--<img alt="Rana's github stats" src="https://github-readme-stats.vercel.app/api?username=rana-essameldin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
 
