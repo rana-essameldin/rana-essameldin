@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 <!--<img alt="Rana's github stats" src="https://github-readme-stats.vercel.app/api?username=rana-essameldin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rana-essameldin&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world</b> 😊 💜</em>
 
