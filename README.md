@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp; I’m looking to collaborate on open-source projects related to frontend development , Backend development and mobile apps.
 - 💬 Ask me about anything, I am happy to help;
 
+<br>
 <div align="center">
 📫 Reach me at:<br>
 <!-- Gmail Logo -->
