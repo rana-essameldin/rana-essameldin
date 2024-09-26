@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 </div>
   
-#  Knowledges
+# :man_technologist: Knowledges
 
 ## Languages
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=ffffff)
