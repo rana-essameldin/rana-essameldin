@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 📫 Reach me at:<br>
 <!-- Gmail Logo -->
 <a href="mailto:your-email@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40px">
+  <img src="rana.essameldin111@gmail.com" alt="Gmail" width="40px">
 </a>
 
 <!-- LinkedIn Logo -->
 <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40px">
+  <img src="https://www.linkedin.com/in/rana-essam-a3195b25b/" alt="LinkedIn" width="40px">
 </a>
 
 
